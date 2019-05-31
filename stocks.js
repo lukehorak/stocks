@@ -1,4 +1,4 @@
-// keep track of lowest yet
+// Runs at O(n)
 
 module.exports = {
   maxProfit: (prices) => {
